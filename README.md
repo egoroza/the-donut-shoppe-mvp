@@ -10,6 +10,8 @@ To run the app, clone this repo and run:
 
 `npm install && npm run start`
 
+You can view the app at [http://localhost:3000/](http://localhost:3000/)
+
 A lot of sections are unfinished, as I tried to encapsulate my abilities for a large range of concepts such as:
 - Component Architecture
 - Data Manipulation
