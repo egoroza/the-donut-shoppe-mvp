@@ -32,6 +32,7 @@ Technologies used include:
 
 2. **Design a Solution:** How can we fix the issue? For this, I wanted to make something that was intuitive, aesthetic yet simple, appealing to my audience, and essentially finding different ways to keep users on the app longer. Branding is my favorite part so I took some time to do some quick mock-ups and make some basic reusable components, such as a product card.
 
+[View Design File](https://www.canva.com/design/DAFn9sjSXOg/FM_SEdG0w6o_a5papkTuLA/view?utm_content=DAFn9sjSXOg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 ![Donut Shoppe Design](https://github.com/egoroza/the-donut-shoppe-mvp/blob/main/src/design-mock-up.png "Donut Shoppe Mock")
 
 3. **Develop Solution:** This also includes choosing technlogies, environment setup, and all the works that come with the development process. Additionally, researching packages and learning how to use them (I found and used [Flickity](https://flickity.metafizzy.co/) for the carousel hero) is also a part of this process. Making note of any architecture and how to divide my components, what can be reusable, what needs state management, etc. (but okay yes sometimes I totally just skip to this step and go crazy)
